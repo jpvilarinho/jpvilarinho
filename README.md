@@ -2,7 +2,7 @@
 
 (EN) Hello, i'm Joao Pedro, currently working as a back-end developer at Avanade and doing a postgraduation in data science and machine learning at the university center of brasilia (UniCEUB), Brazil. I'm always looking forward to learn new technologies and  going deeper into the data area. If you wanna contact me, send me an e-mail or a message on linkedin, i'll be happy to answer you!
   
-(PT-BR) Olá, me chamo João Pedro, atualmente trabalho na Avanade como desenvolvedor back-end e estou realizando uma pós-graduação em ciência de dados e aprendizagem de máquina pelo centro universitário de Brasília (UniCEUB). Estou sempre em busca de novos conhecimentos e de me aprofundar na área de dados cada vez mais. Se você quiser entrar em contato comigo, me envie um email ou mande uma mensagem no linkedin, será um prazer te responder!
+(PT-BR) Olá, me chamo João Pedro, atualmente trabalho na Avanade como desenvolvedor back-end e estou realizando uma pós-graduação em ciência de dados e aprendizagem de máquina pelo centro universitário de Brasília (UniCEUB). Estou sempre em busca de novos conhecimentos e de me aprofundar na área de dados cada vez mais. Se você quiser entrar em contato comigo, me envie um email ou mande uma mensagem no linkedin, será ótimo te responder!
 
 ##
 

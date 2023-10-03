@@ -1,10 +1,10 @@
 ## Hello, welcome! / ¡Hola, bienvenido! / Olá! Seja bem-vindo!  👋👋👋
 
-(EN) Hello, i'm Joao Pedro, currently looking for a new job and postgraduated in data science and machine learning at the university center of brasilia (UniCEUB), Brazil. I'm always looking forward to learn new technologies and  going deeper into the data area. If you wanna contact me, send me an e-mail or a message on linkedin!
+(EN) Hello, i'm Joao Pedro, currently working for TTY and postgraduated in data science and machine learning at the university center of brasilia (UniCEUB), Brazil. I'm always looking forward to learn new technologies and  going deeper into the data area. If you wanna contact me, send me an e-mail or a message on linkedin!
 
-(ES) Hola, soy Juan Pedro, actualmente estoy buscando por un novo trabajo y tengo un posgrado en ciencia de datos y aprendizaje automático en el centro universitario de brasilia (UniCEUB), Brasil. Siempre tengo ganas de aprender nuevas tecnologías y profundizar en el área de datos. ¡Si quieres ponerte en contacto conmigo, envíame un correo electrónico o un mensaje en Linkedin!
+(ES) Hola, soy Juan Pedro, actualmente estoy trabajando para TTY y tengo un posgrado en ciencia de datos y aprendizaje automático en el centro universitario de brasilia (UniCEUB), Brasil. Siempre tengo ganas de aprender nuevas tecnologías y profundizar en el área de datos. ¡Si quieres ponerte en contacto conmigo, envíame un correo electrónico o un mensaje en Linkedin!
   
-(PT-BR) Olá, me chamo João Pedro, atualmente estou buscando por um novo trabalho e pós-graduado em ciência de dados e aprendizagem de máquina pelo centro universitário de Brasília (UniCEUB). Estou sempre em busca de novos conhecimentos e de me aprofundar na área de dados cada vez mais. Se você quiser entrar em contato comigo, me envie um email ou mande uma mensagem no linkedin!
+(PT-BR) Olá, me chamo João Pedro, atualmente estou trabalhando para a TTY e pós-graduado em ciência de dados e aprendizagem de máquina pelo centro universitário de Brasília (UniCEUB). Estou sempre em busca de novos conhecimentos e de me aprofundar na área de dados cada vez mais. Se você quiser entrar em contato comigo, me envie um email ou mande uma mensagem no linkedin!
   
 ##  
 
